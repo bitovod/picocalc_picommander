@@ -1,4 +1,4 @@
-Based on https://github.com/onimahoni/PicoMate
+Based on heavily modified code https://github.com/onimahoni/PicoMate
 
 My code extension allows:
 
